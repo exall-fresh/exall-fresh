@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **exall-fresh/exall-fresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How out to reach me via my email exallnyasulu@gmail or on linkedin https://www.linkedin.com/in/patrick-nyasulu-335935237/...
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I love AI
--->
