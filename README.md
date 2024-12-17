@@ -8,4 +8,4 @@
 - 💬 Ask me about Artificial Intelligence, Machine Learning, Data Science and Software Development
 - 📫 How out to reach me via my email exallnyasulu@gmail or on linkedin https://www.linkedin.com/in/patrick-nyasulu-335935237/...
 - Check out my Most recent transformative AI System, a Safety Gear Detection System on : https://drive.google.com/file/d/1-7WSHDQ_b-5Q-PHhKiA-1DwRT5V-W6Ev/view?usp=drive_link 
-- ⚡ Fun fact: I love AI
+- ⚡ Fun fact: I love AI and am really good at it
