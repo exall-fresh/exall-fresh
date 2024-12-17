@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-**exall-fresh/exall-fresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - ✨ My name is Patrick Nyasulu
 - 🔭 I hold a bachelors Degree in Management Information Systems from Malawi University of Business and Applied Sciences ...
 - 🌱 I am an Expert in Software Developnent Artificial Intelligence and Machine learning, lets talk of Computer Vision, Natural Language Processing, Predictive Analytics and Generative AI ...
