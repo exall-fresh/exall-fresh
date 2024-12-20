@@ -1,14 +1,14 @@
 ✨ **Hi, I’m Patrick Exall Nyasulu**  
 🔭 **Education:** I hold a Bachelor's Degree in Management Information Systems from the Malawi University of Business and Applied Sciences.  
 🌱 **Expertise:** I specialize in Software Development, Artificial Intelligence (AI), and Machine Learning, with a focus on:  
-- Computer Vision  
+- Computer Vision  (OpenCV, YOLO, Retinanet and Fast RCNN)
 - Natural Language Processing (NLP)  
 - Predictive Analytics  
 - Generative AI  
 
 👯 **Tech Stack:**  
 - **Programming Languages & Frameworks:**  
-  - Python: Flask, Django, FastAPI  
+  - Python: Flask, Django, FastAPI, Tensorflow, Pytorch, Matplotlib, Pandas, Numpy  
   - JavaScript: Node.js, React.js, Angular  
   - PHP: Core PHP, Laravel  
   - C#: ASP.NET  
