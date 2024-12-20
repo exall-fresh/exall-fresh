@@ -1,30 +1,29 @@
-✨ Hi, I’m Patrick Exall Nyasulu
-🔭 Education: I hold a Bachelor's Degree in Management Information Systems from the Malawi University of Business and Applied Sciences.
-🌱 Expertise: I specialize in Software Development, Artificial Intelligence (AI), and Machine Learning, with a focus on:
+✨ **Hi, I’m Patrick Exall Nyasulu**  
+🔭 **Education:** I hold a Bachelor's Degree in Management Information Systems from the Malawi University of Business and Applied Sciences.  
+🌱 **Expertise:** I specialize in Software Development, Artificial Intelligence (AI), and Machine Learning, with a focus on:  
+- Computer Vision  
+- Natural Language Processing (NLP)  
+- Predictive Analytics  
+- Generative AI  
 
-Computer Vision
-Natural Language Processing (NLP)
-Predictive Analytics
-Generative AI
-👯 Tech Stack:
+👯 **Tech Stack:**  
+- **Programming Languages & Frameworks:**  
+  - Python: Flask, Django, FastAPI  
+  - JavaScript: Node.js, React.js, Angular  
+  - PHP: Core PHP, Laravel  
+  - C#: ASP.NET  
+  - C++  
+  - Flutter  
 
-Programming Languages & Frameworks:
-Python: Flask, Django, FastAPI
-JavaScript: Node.js, React.js, Angular
-PHP: Core PHP, Laravel
-C#: ASP.NET
-C++
-Flutter
-🤔 Mission: My goal is to transform the world by leveraging technology as a powerful tool.
-💬 Ask Me About:
+🤔 **Mission:** My goal is to transform the world by leveraging technology as a powerful tool.  
+💬 **Ask Me About:**  
+- Artificial Intelligence, Machine Learning, and Data Science  
+- Software Development  
+- Data Visualization tools like Excel, Tableau, and Power BI  
 
-Artificial Intelligence, Machine Learning, and Data Science
-Software Development
-Data Visualization tools like Excel, Tableau, and Power BI
-📫 Contact Me:
+📫 **Contact Me:**  
+- Email: [exallnyasulu@gmail.com](mailto:exallnyasulu@gmail.com)  
+- LinkedIn: [Patrick Nyasulu](https://www.linkedin.com/in/patrick-nyasulu-335935237/)  
 
-Email: exallnyasulu@gmail.com
-LinkedIn: Patrick Nyasulu
-💬 Recent Project: Check out my latest transformative AI system—a Safety Gear Detection System: View here.
-⚡ Fun Fact: I’m deeply passionate about AI and excel at it!
-
+💬 **Recent Project:** Check out my latest transformative AI system—a **Safety Gear Detection System**: [View here](https://drive.google.com/file/d/1-7WSHDQ_b-5Q-PHhKiA-1DwRT5V-W6Ev/view?usp=drive_link).  
+⚡ **Fun Fact:** I’m deeply passionate about AI and excel at it!
