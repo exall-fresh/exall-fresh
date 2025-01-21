@@ -15,10 +15,10 @@
   - C++  
   - Flutter
 -  Embedded Systems Platforms
-  - Arduino (Uno R3, Mega and Nano)
-  - ESP32
-  - NodeMCU
-  - Raspberry Pi
+    - Arduino (Uno R3, Mega and Nano)
+    - ESP32
+    - NodeMCU
+    - Raspberry Pi
 - Data Analysis and Visualization
   - Excel
   - Tableu
