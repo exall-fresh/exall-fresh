@@ -13,7 +13,12 @@
   - PHP: Core PHP, Laravel  
   - C#: ASP.NET  
   - C++  
-  - Flutter  
+  - Flutter
+- ** Internet Of Things Boards:**
+  - Arduino (Uno R3)
+  - ESP32
+  - NodeMCU
+  - Raspberry Pi
 
 🤔 **Mission:** My goal is to transform the world by leveraging technology as a powerful tool.  
 💬 **Ask Me About:**  
