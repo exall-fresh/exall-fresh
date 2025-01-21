@@ -14,11 +14,15 @@
   - C#: ASP.NET  
   - C++  
   - Flutter
-- ** Internet Of Things Boards:**
-  - Arduino (Uno R3)
+-  Embedded Systems Platforms
+  - Arduino (Uno R3, Mega and Nano)
   - ESP32
   - NodeMCU
   - Raspberry Pi
+- Data Analysis and Visualization
+  - Excel
+  - Tableu
+  - Power BI
 
 🤔 **Mission:** My goal is to transform the world by leveraging technology as a powerful tool.  
 💬 **Ask Me About:**  
