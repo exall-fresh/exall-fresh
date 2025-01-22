@@ -23,6 +23,11 @@
   - Excel
   - Tableu
   - Power BI
+- Containerization and Orchestration
+  - Docker
+- Cloud Computing
+  - Digital Ocean
+  - Hertzner
 
 🤔 **Mission:** My goal is to transform the world by leveraging technology as a powerful tool.  
 💬 **Ask Me About:**  
