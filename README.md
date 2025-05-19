@@ -1,86 +1,87 @@
-✨ Patrick Exall Nyasulu
-🔭 Education
-Bachelor of Science in Management Information Systems
-Malawi University of Business and Applied Sciences (MUBAS)
+<h1 align="center">✨ Patrick Exall Nyasulu ✨</h1>
 
-🌱 Areas of Expertise
-I am a results-driven Software Developer and AI/ML Specialist with deep expertise in:
+<p align="center">
+  <strong>Software Developer | AI/ML Engineer | Embedded Systems Specialist</strong><br>
+  <em>Transforming the world through the power of technology.</em>
+</p>
 
-Computer Vision: OpenCV, YOLO, RetinaNet, Fast R-CNN
+---
 
-Natural Language Processing (NLP)
+### 🎓 Education
 
-Predictive Analytics
+**Bachelor of Science in Management Information Systems**  
+*Malawi University of Business and Applied Sciences (MUBAS)*
 
-Generative AI
+---
 
-I bring innovative solutions to real-world problems through intelligent systems design and applied data science.
+### 🌱 Areas of Expertise
 
-👨‍💻 Technical Skill Set
-🧠 Programming Languages & Frameworks
-Python: Flask, Django, FastAPI, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
+💡 I specialize in Software Development, Artificial Intelligence, and Machine Learning with a focus on:
 
-JavaScript: Node.js, React.js, Angular
+- 🤖 **Computer Vision**: OpenCV, YOLO, RetinaNet, Fast R-CNN  
+- 🧠 **Natural Language Processing (NLP)**  
+- 📈 **Predictive Analytics**  
+- 🎨 **Generative AI**
 
-PHP: Core PHP, Laravel
+---
 
-C#: ASP.NET
+### 🛠️ Tech Stack
 
-C++
+#### 🧠 Languages & Frameworks
 
-Flutter (Dart)
+🟨 Python | 90% - Flask, Django, FastAPI, TensorFlow, PyTorch
+🟧 PHP | 75% - Core PHP, Laravel
+🟦 C# | 80% - ASP.NET
+🟩 JavaScript | 70% - Node.js, React.js, Angular
+🟫 C++ | 60%
+🎯 Dart/Flutter | 60%
 
-🔌 Messaging & Caching Technologies
-RabbitMQ
+markdown
+Copy
+Edit
 
-Redis Database
+#### 🖥️ Platforms & Tools
 
-🤖 Embedded & IoT Platforms
-Arduino (Uno R3, Mega, Nano)
+- 📟 **Embedded Systems**: Arduino (Uno, Mega, Nano), ESP32, NodeMCU, Raspberry Pi  
+- 📊 **Visualization**: Excel, Tableau, Power BI  
+- 📦 **Containerization**: Docker  
+- ☁️ **Cloud Providers**: DigitalOcean, Hetzner  
+- 📬 **Messaging/Cache**: RabbitMQ, Redis
 
-ESP32
+---
 
-NodeMCU
+### 📊 Skills Overview
 
-Raspberry Pi
+#### Programming Proficiency
 
-📊 Data Analysis & Visualization
-Microsoft Excel
-
-Tableau
-
-Power BI
-
-📦 Containerization & DevOps
-Docker
-
-☁️ Cloud Infrastructure
-DigitalOcean
-
-Hetzner
+```md
+Python    ██████████████████████████████████ 90%
+C#        ████████████████████████████░░░░░░ 80%
+PHP       █████████████████████████░░░░░░░░░ 75%
+JavaScript██████████████████████░░░░░░░░░░░░ 70%
+<sub>Note: Graphs are illustrative and based on self-assessment.</sub>
 
 🎯 Mission
-My mission is to harness the power of technology to drive digital transformation, solve pressing challenges, and build scalable, intelligent systems that impact communities and industries.
+My mission is to solve complex challenges through smart, scalable technology and make AI accessible, impactful, and responsible.
 
-💬 Topics I’m Passionate About
-Artificial Intelligence, Machine Learning, and Data Science
+💬 Ask Me About
+Artificial Intelligence & Machine Learning
 
-Full-Stack Software Development
+Software Architecture & API Design
 
-Intelligent IoT Systems
+Data Visualization (Power BI, Tableau, Excel)
 
-Data Visualization and Business Intelligence
+Full-Stack & IoT System Integration
 
-📫 Get in Touch
+📫 Contact
 📧 Email: exallnyasulu@gmail.com
+🔗 LinkedIn: Patrick Nyasulu
 
-💼 LinkedIn: Patrick Nyasulu
+🚀 Featured Project
+🦺 Safety Gear Detection System
+A real-time AI-powered system that detects compliance with workplace safety gear policies using computer vision.
 
-🚀 Recent Project
-Safety Gear Detection System
-A real-time AI-powered system for enhancing workplace safety by automatically identifying compliance with protective gear regulations.
-
-🔗 View Project Demo
+🔗 Watch Demo
 
 ⚡ Fun Fact
-I'm not just passionate about AI—I live and breathe it. I thrive at the intersection of creativity and intelligent automation.
+I’m not just passionate about AI—I live it, build it, and thrive in it. Always hungry to innovate.
