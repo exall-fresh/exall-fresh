@@ -1,43 +1,86 @@
-✨ **Hi, I’m Patrick Exall Nyasulu**  
-🔭 **Education:** I hold a Bachelor's Degree in Management Information Systems from the Malawi University of Business and Applied Sciences.  
-🌱 **Expertise:** I specialize in Software Development, Artificial Intelligence (AI), and Machine Learning, with a focus on:  
-- Computer Vision  (OpenCV, YOLO, Retinanet and Fast RCNN)
-- Natural Language Processing (NLP)  
-- Predictive Analytics  
-- Generative AI  
+✨ Patrick Exall Nyasulu
+🔭 Education
+Bachelor of Science in Management Information Systems
+Malawi University of Business and Applied Sciences (MUBAS)
 
-👯 **Tech Stack:**  
-- **Programming Languages & Frameworks:**  
-  - Python: Flask, Django, FastAPI, Tensorflow, Pytorch, Matplotlib, Pandas, Numpy  
-  - JavaScript: Node.js, React.js, Angular  
-  - PHP: Core PHP, Laravel  
-  - C#: ASP.NET  
-  - C++  
-  - Flutter
--  Embedded Systems Platforms
-    - Arduino (Uno R3, Mega and Nano)
-    - ESP32
-    - NodeMCU
-    - Raspberry Pi
-- Data Analysis and Visualization
-  - Excel
-  - Tableu
-  - Power BI
-- Containerization and Orchestration
-  - Docker
-- Cloud Computing
-  - Digital Ocean
-  - Hertzner
+🌱 Areas of Expertise
+I am a results-driven Software Developer and AI/ML Specialist with deep expertise in:
 
-🤔 **Mission:** My goal is to transform the world by leveraging technology as a powerful tool.  
-💬 **Ask Me About:**  
-- Artificial Intelligence, Machine Learning, and Data Science  
-- Software Development  
-- Data Visualization tools like Excel, Tableau, and Power BI  
+Computer Vision: OpenCV, YOLO, RetinaNet, Fast R-CNN
 
-📫 **Contact Me:**  
-- Email: [exallnyasulu@gmail.com](mailto:exallnyasulu@gmail.com)  
-- LinkedIn: [Patrick Nyasulu](https://www.linkedin.com/in/patrick-nyasulu-335935237/)  
+Natural Language Processing (NLP)
 
-💬 **Recent Project:** Check out my latest transformative AI system—a **Safety Gear Detection System**: [View here](https://drive.google.com/file/d/1-7WSHDQ_b-5Q-PHhKiA-1DwRT5V-W6Ev/view?usp=drive_link).  
-⚡ **Fun Fact:** I’m deeply passionate about AI and excel at it!
+Predictive Analytics
+
+Generative AI
+
+I bring innovative solutions to real-world problems through intelligent systems design and applied data science.
+
+👨‍💻 Technical Skill Set
+🧠 Programming Languages & Frameworks
+Python: Flask, Django, FastAPI, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
+
+JavaScript: Node.js, React.js, Angular
+
+PHP: Core PHP, Laravel
+
+C#: ASP.NET
+
+C++
+
+Flutter (Dart)
+
+🔌 Messaging & Caching Technologies
+RabbitMQ
+
+Redis Database
+
+🤖 Embedded & IoT Platforms
+Arduino (Uno R3, Mega, Nano)
+
+ESP32
+
+NodeMCU
+
+Raspberry Pi
+
+📊 Data Analysis & Visualization
+Microsoft Excel
+
+Tableau
+
+Power BI
+
+📦 Containerization & DevOps
+Docker
+
+☁️ Cloud Infrastructure
+DigitalOcean
+
+Hetzner
+
+🎯 Mission
+My mission is to harness the power of technology to drive digital transformation, solve pressing challenges, and build scalable, intelligent systems that impact communities and industries.
+
+💬 Topics I’m Passionate About
+Artificial Intelligence, Machine Learning, and Data Science
+
+Full-Stack Software Development
+
+Intelligent IoT Systems
+
+Data Visualization and Business Intelligence
+
+📫 Get in Touch
+📧 Email: exallnyasulu@gmail.com
+
+💼 LinkedIn: Patrick Nyasulu
+
+🚀 Recent Project
+Safety Gear Detection System
+A real-time AI-powered system for enhancing workplace safety by automatically identifying compliance with protective gear regulations.
+
+🔗 View Project Demo
+
+⚡ Fun Fact
+I'm not just passionate about AI—I live and breathe it. I thrive at the intersection of creativity and intelligent automation.
