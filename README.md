@@ -73,7 +73,7 @@ class Patrick:
 | 🐍 Python | `████████████████████ 90%` | Flask · Django · FastAPI · TensorFlow · PyTorch |
 | 🔷 C# | `████████████████░░░░ 80%` | ASP.NET |
 | 🐘 PHP | `███████████████░░░░░ 75%` | Laravel · Core PHP |
-| 🌐 JavaScript | `██████████████░░░░░░ 70%` | Node.js · React.js · Angular |
+| 🌐 JavaScript | `██████████████░░░░░░ 70%` | Node.js · | Next.js . React.js · Angular | 
 | ⚙️ C++ | `████████████░░░░░░░░ 60%` | Embedded / Systems Programming |
 | 📱 Dart/Flutter | `████████████░░░░░░░░ 60%` | Cross-platform Mobile |
 
